@@ -1,0 +1,84 @@
+id	type	is_nuclear	recorded	regulation_color	community_color	community_name
+ABRACL	DEG		False	red	#1f77b4	island1_comm1
+ADGRA2	DEG		False	blue	#ff7f0e	island1_comm2
+ALX1	TF				#1f77b4	island1_comm1
+ANKRD29	DEG		False	blue	#ff7f0e	island1_comm2
+ARHGEF12	DEG	False	False	blue	#ff7f0e	island1_comm2
+B4GALT7	DEG	False	False	red	#d62728	island2_comm1
+BPIFB4	DEG	False	False	blue	#2ca02c	island1_comm3
+CCR1	DEG	False	True	blue	#8c564b	island3_comm2
+CEMIP	DEG	True	False	blue	#ff7f0e	island1_comm2
+CHIT1	DEG	False	True	red	#1f77b4	island1_comm1
+CHRDL1	DEG		False	blue	#ff7f0e	island1_comm2
+CLEC12B	DEG	False	False	red	#1f77b4	island1_comm1
+CLEC14A	DEG	False	False	blue	#ff7f0e	island1_comm2
+CNOT8	DEG	False	False	red	#1f77b4	island1_comm1
+COLGALT2	DEG		False	blue	#2ca02c	island1_comm3
+CSTB	DEG		False	red	#1f77b4	island1_comm1
+DCHS1	DEG	False	False	blue	#e377c2	island4_comm1
+DCUN1D1	DEG	False	False	red	#1f77b4	island1_comm1
+DGKZ	DEG	True	False	blue	#2ca02c	island1_comm3
+DNAH17	DEG		False	blue	#ff7f0e	island1_comm2
+DOCK6	DEG	True	False	blue	#ff7f0e	island1_comm2
+EIF1B	DEG	False	False	red	#1f77b4	island1_comm1
+ETV4	TF	False	False	red	#1f77b4	island1_comm1
+FLI1	TF		False	blue	#9467bd	island3_comm1
+GDPD4	DEG	False	False	red	#2ca02c	island1_comm3
+GIMAP5	DEG	False	False	blue	#e377c2	island4_comm1
+GSE1	DEG		False	blue	#ff7f0e	island1_comm2
+HERC2	DEG	False	False	blue	#1f77b4	island1_comm1
+HES2	TF				#8c564b	island3_comm2
+HES3	TF				#2ca02c	island1_comm3
+HIVEP1	TF		False	blue	#ff7f0e	island1_comm2
+HOXA6	TF				#ff7f0e	island1_comm2
+HPGD	DEG	False	True	red	#e377c2	island4_comm1
+HYPK	DEG	False	False	red	#d62728	island2_comm1
+ITPR2	DEG	False	True	blue	#2ca02c	island1_comm3
+KIF13A	DEG	False	False	blue	#9467bd	island3_comm1
+LY6E	DEG	False	False	blue	#2ca02c	island1_comm3
+M1AP	DEG	False	False	blue	#1f77b4	island1_comm1
+MCF2L	DEG	False	False	blue	#ff7f0e	island1_comm2
+MEF2C	TF	True	False	blue	#1f77b4	island1_comm1
+MELK	DEG	False	False	red	#1f77b4	island1_comm1
+MRPL51	DEG	False	False	red	#1f77b4	island1_comm1
+MTOR	DEG		False	blue	#ff7f0e	island1_comm2
+MYCBP2	DEG		False	blue	#e377c2	island4_comm1
+NFAT5	TF	False	False	blue	#d62728	island2_comm1
+NKX6-1	TF				#ff7f0e	island1_comm2
+NOPCHAP1	DEG	False	False	blue	#d62728	island2_comm1
+NSMCE4A	DEG	True	False	red	#ff7f0e	island1_comm2
+NUCB2	DEG		False	red	#1f77b4	island1_comm1
+OAS2	DEG	True	False	blue	#1f77b4	island1_comm1
+PDIA3	DEG		False	red	#1f77b4	island1_comm1
+PFDN5	DEG	False	False	red	#d62728	island2_comm1
+PKD1	DEG	False	True	blue	#ff7f0e	island1_comm2
+PLBD1	DEG	False	False	blue	#1f77b4	island1_comm1
+PLEC	DEG	True	False	blue	#9467bd	island3_comm1
+PLPP5	DEG	False	False	red	#8c564b	island3_comm2
+PPARA	TF				#2ca02c	island1_comm3
+PPP1R16B	DEG	True	False	blue	#ff7f0e	island1_comm2
+PREX2	DEG	False	False	blue	#1f77b4	island1_comm1
+RAPGEF4	DEG	False	True	blue	#2ca02c	island1_comm3
+RFX4	TF				#ff7f0e	island1_comm2
+RIOK3	DEG		False	red	#2ca02c	island1_comm3
+RPS15	DEG		False	red	#1f77b4	island1_comm1
+RPS23	DEG	False	False	red	#8c564b	island3_comm2
+SELENOK	DEG	False	True	red	#d62728	island2_comm1
+SH2D3C	DEG	False	False	blue	#1f77b4	island1_comm1
+SOSTDC1	DEG	False	False	blue	#1f77b4	island1_comm1
+ST6GALNAC2	DEG	False	True	blue	#2ca02c	island1_comm3
+TMEM204	DEG	False	False	blue	#ff7f0e	island1_comm2
+TMEM59	DEG	False	False	red	#9467bd	island3_comm1
+TPSB2	DEG		False	red	#2ca02c	island1_comm3
+TRPC5OS	DEG		False	red	#2ca02c	island1_comm3
+TRRAP	DEG		False	blue	#ff7f0e	island1_comm2
+TUB	TF				#9467bd	island3_comm1
+TUBB2A	DEG	False	True	blue	#1f77b4	island1_comm1
+UBE2QL1	DEG	False	False	blue	#d62728	island2_comm1
+USP36	DEG		False	blue	#2ca02c	island1_comm3
+VSTM2B	DEG	False	False	red	#ff7f0e	island1_comm2
+WDR31	DEG		False	blue	#1f77b4	island1_comm1
+ZBTB32	TF	False	False	blue	#e377c2	island4_comm1
+ZFC3H1	DEG	False	False	blue	#ff7f0e	island1_comm2
+ZFP113	TF				#d62728	island2_comm1
+ZFP879	TF				#1f77b4	island1_comm1
